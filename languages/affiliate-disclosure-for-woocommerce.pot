@@ -1,0 +1,135 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Affiliate Disclosure for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-25 17:07-0700\n"
+"PO-Revision-Date: 2016-08-09 12:06-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;"
+"_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;_nx_noop:4c,1,2;"
+"_nx;_esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;esc_html_x;__;_e;"
+"esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: affiliate-disclosure-for-woocommerce.php:67
+msgid "Settings"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:83
+msgid "Affiliate Disclosure"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:86
+msgid ""
+"You can target the \"adfw-disclosure-text\" classname for additional styling."
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:95
+msgid "Affiliate Disclosure Text"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:109
+msgid "Display on External/Affiliate Products Only?"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:123
+msgid "Disclosure Placement (Hook)"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:128
+msgid "Before Add to Cart Form"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:129
+msgid "After Add to Cart Form"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:130
+msgid "Before Add to Cart Button"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:131
+msgid "After Add to Cart Button"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:132
+msgid "Product Meta Start"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:133
+msgid "Product Meta End"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:144
+msgid "Text Align"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:149
+msgid "Default"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:150
+msgid "Start"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:151
+msgid "Center"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:152
+msgid "End"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:163
+msgid "Background"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:176
+msgid "Border"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:180
+msgid "Use shorthand format (width style color). Example: 1px solid red"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:190
+msgid "Text Color"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:203
+msgid "Font Size"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:216
+msgid "Margin Top"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:229
+msgid "Margin Bottom"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:242
+msgid "Top Padding"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:255
+msgid "Bottom Padding"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:268
+msgid "Left Padding"
+msgstr ""
+
+#: affiliate-disclosure-for-woocommerce.php:281
+msgid "Right Padding"
+msgstr ""
